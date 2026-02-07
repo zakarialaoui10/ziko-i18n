@@ -1,5 +1,5 @@
 {
-  "name": "preview",
+  "name": "demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,10 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.4.8"
-  },
-  "dependencies": {
-    "glob": "^11.0.0",
-    "ziko": "^0.0.21"
+    "vite": "^7.2.4"
   }
 }
