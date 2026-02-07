@@ -5,6 +5,9 @@
   "main": "index.js",
   "type": "module",
   "exports": {
+    ".":{
+      "import": "./src/index.js"
+    },
     "./*": {
       "import": "./src/*/index.js"
     }
